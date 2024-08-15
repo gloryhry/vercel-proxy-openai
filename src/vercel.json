@@ -9,4 +9,5 @@
     "github": {
         "silent": true
     }
+    "regions": ["sfo1", "pdx1", "kix1", "iad1", "cle1"]
 }
